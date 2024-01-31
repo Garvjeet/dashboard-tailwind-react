@@ -13,7 +13,7 @@ This is a one-page dashboard application built with React.js, Tailwind CSS, and 
 - **Vite:** A blazing fast frontend build tool that provides instant server start and hot module replacement.
 
 - **Desktop View**
-![Desktop view](./public/screenshots/desktop.png)
+<img src="./public/screenshots/desktop.png" alt="Desktop view" />
 
 - **Mobile View**
 <img src="./public/screenshots/mobile.png" alt="Mobile view" width="200"/>
